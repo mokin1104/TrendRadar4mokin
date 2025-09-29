@@ -6,6 +6,8 @@ on:
 jobs:
   run-trendradar:
     runs-on: ubuntu-latest
+    env:
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
 
     steps:
       - name: Checkout repository
