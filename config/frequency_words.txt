@@ -116,7 +116,6 @@ South China Sea
 水电站
 雅鲁藏布江
 新质生产力
-
 极氪
 领克
 吉利
@@ -167,9 +166,11 @@ Jerome Powell
 Janet Yellen
 达利欧
 Ray Dalio
-股票 / Stock
+股票
+Stock
 ETF
-基金 / Fund
+基金
+Fund
 债券
 Bond
 外汇
